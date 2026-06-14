@@ -16,6 +16,13 @@ Visualization of innings progression and scoring trends.
 Match-defining performances and turning points.
 Interactive exploration of player and team statistics derived from ESPN Cricinfo data.T
 
+<hr>
+<img width="1521" height="861" alt="Image" src="https://github.com/user-attachments/assets/985c6686-06c9-42bd-8f44-d675a7230e80" />
+
+<img width="1521" height="863" alt="Image" src="https://github.com/user-attachments/assets/c730d409-9bd2-4ec5-b535-d0e20422819f" />
+
+<img width="1521" height="853" alt="Image" src="https://github.com/user-attachments/assets/f8ec7236-e8d9-4044-b10c-5f561991ef3e" />
+<hr>
 
 ### Steps followed 
 
