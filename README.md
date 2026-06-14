@@ -8,13 +8,13 @@ This dashboard provides a detailed analysis of the India vs South Africa cricket
 
 Through various visualizations, users can quickly identify the top performers, compare team performances, analyze scoring patterns, and understand crucial moments that influenced the match outcome. The dashboard also highlights important metrics such as run rates, wickets, boundaries, individual player scores, and bowling figures.
 
-Key Insights:
+## Key Insights
 
-Comparative analysis of India and South Africa's batting and bowling performances.
-Identification of top run-scorers and wicket-takers.
-Visualization of innings progression and scoring trends.
-Match-defining performances and turning points.
-Interactive exploration of player and team statistics derived from ESPN Cricinfo data.T
+- Compared India's and South Africa's batting and bowling performances.
+- Identified the highest run-scorers and leading wicket-takers.
+- Analyzed innings progression and scoring trends throughout the match.
+- Highlighted key performances and turning points that influenced the result.
+- Enabled interactive exploration of player and team statistics extracted from ESPN Cricinfo.
 
 <hr>
 <img width="1521" height="861" alt="Image" src="https://github.com/user-attachments/assets/985c6686-06c9-42bd-8f44-d675a7230e80" />
